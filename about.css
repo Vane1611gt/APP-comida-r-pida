@@ -1,0 +1,17 @@
+.btn-bout{
+    background-color: gray;
+    color: rgb(45,45,45);
+    width: 12rem;
+    height: 3rem;
+    border-radius: 2rem;
+    margin: auto;
+    margin: 2rem auto 4rem auto;
+    font-size: 1.8rem;
+    font-weight: 400;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+    
